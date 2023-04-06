@@ -1,0 +1,15 @@
+.t-shirt{
+    border: 1px solid lightblue;
+    border-radius: 12px;
+    padding: 10px;
+}
+.t-shirt img {
+    height: 250px;
+}
+ .btn-buy{
+    background-color: coral;
+    color: white;
+ }
+ .btn-buy:hover{
+    background-color: orangered;
+ }
